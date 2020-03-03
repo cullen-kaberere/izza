@@ -1,0 +1,48 @@
+
+.top { width: auto;
+    background: url(../images/asa.jpeg) fixed  ;
+    font-style: italic;
+    color: bisque;
+}
+
+.stat {
+    background-image: url("../images/pack.jpeg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+   
+}
+
+body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: rgb(15, 187, 187);
+    background-color: rgb(43, 41, 41);
+}
+
+#menu{
+    background-image: url("../images/back.jpeg") fixed;
+}
+
+.modal-content{
+   text-align: center;
+   color: rgb(0, 0, 0);
+}
+
+.row{
+    text-align: center;
+    color: rgb(15, 187, 187) ;
+}
+
+#contact{
+    background: url("../images/montanara.jpeg") fixed ;
+}
+.footer{
+    width: auto;
+}
+
+.deliver{
+    display: none;
+}
+.delivernot{
+    display: none;
+}
